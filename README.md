@@ -2,6 +2,7 @@
 This repo is for DSTI MLOps course labs.
 ## Set Up an SSH Key
 Generate a New SSH Key : ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
 Add the SSH Key to the SSH Agent : 
 - eval "$(ssh-agent -s)"
 - ssh-add ~/.ssh/id_rsa
