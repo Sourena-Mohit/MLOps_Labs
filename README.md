@@ -16,6 +16,8 @@ using git clone
 ## Verify the Connection
 - ssh -T git@github.com
 ##  clone a repository using the HTTPS web URL
+git clone https://github.com/username/repository.git
+
 Using a Personal Access Token :
 - Create a Personal Access Token (PAT) :
   -  Settings > Developer Settings > Personal Access Tokens
