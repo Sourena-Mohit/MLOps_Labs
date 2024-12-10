@@ -15,3 +15,15 @@ Add the Key to GitHub -> Settings > SSH and GPG keys
 using git clone 
 ## Verify the Connection
 - ssh -T git@github.com
+##  clone a repository using the HTTPS web URL
+Using a Personal Access Token :
+- Create a Personal Access Token (PAT) :
+  -  Settings > Developer Settings > Personal Access Tokens
+  -  Generate new token
+  -  Copy the generated token and store it securely
+    
+Use the Token for HTTPS Authentication :
+- When prompted for a username during the git clone process, use your GitHub username.
+- For the password, paste your personal access token.
+
+
