@@ -28,4 +28,8 @@ Use the Token for HTTPS Authentication :
 - When prompted for a username during the git clone process, use your GitHub username.
 - For the password, paste your personal access token.
 
+### Using Git Credential Manager : git config --global credential.helper manager
+Your credentials will be saved securely after the first use.
+
+
 
