@@ -63,6 +63,8 @@ If you organize your tests into directories, those directories must follow speci
 - Use an `__init__.py` file in the directory if you want to treat it as a package (optional for pytest, but useful for certain use cases).
 
 #### **Example Directory Structure:**
+
+
 my_project/
 ├── src/
 │   └── main.py
