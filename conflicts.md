@@ -83,12 +83,5 @@ Resolving a Git conflict occurs when Git cannot automatically merge changes from
      ```
      git mergetool
      ```
-Feel free to use this in your GitHub repository or any other Markdown file! If you need further assistance, just let me know. 😊
-
-
-Edit in Pages
-
-5 of 30 responses
-AI-generated content may be incorrect
 
 
